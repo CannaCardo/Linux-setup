@@ -1,0 +1,12 @@
+[url "git@github.com:"]
+  insteadOf = https://github.com/
+
+[include]
+  path = ~/.config/git/internal-sites
+
+[user]
+	email = belewicz@protonmail.com
+	name = CannaCardo
+
+[code]
+	editor = atom

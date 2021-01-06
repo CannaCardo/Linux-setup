@@ -1,0 +1,3 @@
+spotify
+brave-bin
+telegram-desktop-bin
